@@ -1,4 +1,4 @@
-### Heu, I'm Mike, or MFurious 
+### y, I'm Mike, or MFurious 
 
 ## I'm a ICT-Student, Software Dev and Hacking enthousiast!
 - I'm currently working on a webscraper
