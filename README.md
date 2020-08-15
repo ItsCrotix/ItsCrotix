@@ -1,6 +1,6 @@
 ### Heu, I'm Mike, or MFurious 
 
-## I'm a ICT-Student, Software Developer and ethical-hacking enthousiast!
+## I'm a ICT-Student, Software Dev and Hacking enthousiast!
 - I'm currently working on a [webscraper][]
 - I'm currently learning: Javascript, NodeJS, HTML & CSS
 - 2020 Goals: Surviving the end of the world... (and bring my first React webpage in production)
