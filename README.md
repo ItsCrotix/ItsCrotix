@@ -1,7 +1,7 @@
 ### Hey, I'm Mike, or MFurious 
 
 ## I'm a ICT-Student, Software Dev and Hacking enthousiast!
-- 🕷️ I'm currently working on a Magic Mirror Module NsInfo
+- 🕷️ I'm currently working on a super secret project.
 - 🖥️ I'm currently learning: Javascript, NodeJS, HTML & CSS
 - 📑 2021 Goals: Surviving the end of the world... (and bring my first React webapp in production)
 - 🎵 Random Fact: Besides Programming, I play piano, guitar and learing drums
