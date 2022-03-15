@@ -1,10 +1,10 @@
-### Hey, I'm Mike, or MFurious 
+### Hey, I'm Mike,
 
 ## I'm a ICT-Student, Software Dev and Hacking enthousiast!
 - 🕷️ I'm currently working on a super secret project.
-- 🖥️ I'm currently learning: Javascript, NodeJS, HTML & CSS
-- 📑 2021 Goals: Surviving the end of the world... (and bring my first React webapp in production)
-- 🎵 Random Fact: Besides Programming, I play piano, guitar and learing drums
+- 🖥️ I'm currently studying: The Advanced prinicples of React (Native), NodeJS and Javascript.
+- 📑 2022 Goals: Building more awesome software solutions.
+- 🎵 Random Fact: Besides Programming, I am a huge lover of food, music and snowboarding.
 
 ### Get in touch:
 
