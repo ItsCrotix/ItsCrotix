@@ -1,7 +1,7 @@
 ### Hey, I'm Mike,
 
-## I'm a ICT-Student, Software Dev and Hacking enthousiast!
-- 🕷️ I'm currently working on implemeting KYC AI within a React Native environment.
+## Front-End Software Developer
+- 🕷️ I'm currently working on a ERP system, build in React.
 - 🖥️ I'm currently studying: The advanced principles of React (Native), NodeJS and JavaScript.
 - 📑 2022 Goals: Building more awesome software solutions.
 - 🎵 Random Fact: Besides Programming, I am a huge lover of food, music and snowboarding.
