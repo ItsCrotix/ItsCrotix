@@ -1,10 +1,10 @@
 ### Hey, I'm Mike,
 
 ## Front-End Software Developer
-- 🕷️ I'm currently working on a ERP system, build in React.
-- 🖥️ I'm currently studying: The advanced principles of React (Native), NodeJS and JavaScript.
-- 📑 2022 Goals: Building more awesome software solutions.
-- 🎵 Random Fact: Besides Programming, I am a huge lover of food, music and snowboarding.
+- 🕷️ I'm currently working on a administration system in React.
+- 🖥️ I'm currently studying: The advanced principles of React (Native), NodeJS and Electron.
+- 📑 2024 Goals: Building more awesome software solutions.
+- 🎵 Random Fact: Besides Programming, I am a huge lover of theatre, music and snowboarding.
 
 ### Get in touch:
 
@@ -19,6 +19,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
