@@ -3,7 +3,7 @@
 ## Front-End Software Developer
 - 🕷️ I'm currently working on a administration system in React.
 - 🖥️ I'm currently studying: The advanced principles of React (Native), NodeJS and Electron.
-- 📑 2024 Goals: Building more awesome software solutions.
+- 📑 2025 Goals: Building more awesome software solutions.
 - 🎵 Random Fact: Besides Programming, I am a huge lover of theatre, music and snowboarding.
 
 ### Get in touch:
